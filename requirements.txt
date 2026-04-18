@@ -1,0 +1,5 @@
+Flask
+pandas
+validators
+xgboost
+scikit-learn
